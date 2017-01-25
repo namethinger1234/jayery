@@ -1,2 +1,0 @@
-# jayery
-sdrgfrthrg
