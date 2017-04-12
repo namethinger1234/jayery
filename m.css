@@ -3,7 +3,12 @@
 }
 
 body {
-    background-color: #000000;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff3232+0,f2a426+18,fff130+37,27f765+61,2768f4+80,ba7ae2+100 */
+background: #ff3232; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #ff3232 0%, #f2a426 18%, #fff130 37%, #27f765 61%, #2768f4 80%, #ba7ae2 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#ba7ae2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
 h1 {
