@@ -3,14 +3,13 @@
 }
 
 body {
-    color: #000000;
+    background: #000000;
 }
 
 h1 {
-    background: #ff3232;
-    background: -moz-linear-gradient(-45deg, #ff3232 0%, #f2a426 18%, #fff130 37%, #27f765 61%, #2768f4 80%, #ba7ae2 100%);
-    background: -webkit-linear-gradient(-45deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%);
-    background: linear-gradient(135deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%);
+    color: -moz-linear-gradient(-45deg, #ff3232 0%, #f2a426 18%, #fff130 37%, #27f765 61%, #2768f4 80%, #ba7ae2 100%);
+    color: -webkit-linear-gradient(-45deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%);
+    color: linear-gradient(135deg, #ff3232 0%,#f2a426 18%,#fff130 37%,#27f765 61%,#2768f4 80%,#ba7ae2 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3232', endColorstr='#ba7ae2',GradientType=1 );
 }
 
